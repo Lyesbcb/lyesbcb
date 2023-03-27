@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Anything, I can ask to my friend google.**
 
-- 📫 How to reach me **lyes.benchoubane@gmail.com**
+- 📫 To reach me **lyes.benchoubane@gmail.com**
 
 - 📄 Know about my experiences [lyesbcb.com](lyesbcb.com)
 
