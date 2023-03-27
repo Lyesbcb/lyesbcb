@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lyes</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on **[controlresell.com](controlresell.com)**
+- 🔭 I’m currently working on <a href="https://controlresell.com" target="_blank" rel="noreferrer">controlresell.com</a>
 
 - 🌱 I’m currently learning **threejs-journey.com**
 
