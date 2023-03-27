@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lyes</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on <a href="https://controlresell.com" target="_blank" rel="noreferrer">controlresell.com</a>
+- 🔭 I’m currently working on <a href="https://controlresell.com" target="_blank">controlresell.com</a>
 
-- 🌱 I’m currently learning **threejs-journey.com**
+- 🌱 I’m currently learning <a href="https://threejs-journey.com" target="_blank">threejs</a>
 
 - 👨‍💻 All of my projects are available at **lyesbcb.com**
 
