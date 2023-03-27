@@ -13,7 +13,7 @@
 
 - 📫 To reach me **contact@lyesbcb.com**
 
-- ⚡ Fun fact **I don't drink cofee**
+- ⚡ Fun fact **I'm coding on a 65" screen**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
