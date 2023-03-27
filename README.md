@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lyes</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on [ControlResell](controlresell.com)
+- 🔭 I’m currently working on **controlresell.com**
 
-- 🌱 I’m currently learning **https://threejs-journey.com/**
+- 🌱 I’m currently learning **threejs-journey.com**
 
-- 👨‍💻 All of my projects are available at [lyesbcb.com](lyesbcb.com)
+- 👨‍💻 All of my projects are available at **lyesbcb.com**
 
-- 📝 I regularly write articles on [lyesbcb.com](lyesbcb.com)
+- 📝 I try to write articles on **lyesbcb.com**
 
 - 💬 Ask me about **Anything, I can ask to my friend google.**
 
-- 📫 To reach me **lyes.benchoubane@gmail.com**
-
-- 📄 Know about my experiences [lyesbcb.com](lyesbcb.com)
+- 📫 To reach me **contact@lyesbcb.com**
 
 - ⚡ Fun fact **I don't drink cofee**
 
